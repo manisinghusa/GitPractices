@@ -1,3 +1,3 @@
 Hello Maninder Singh
 Changing for first commit 
-Git merge 1
+Git commit 1
