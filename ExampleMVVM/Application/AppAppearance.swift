@@ -3,6 +3,7 @@ import UIKit
 
 final class AppAppearance {
     
+    //Code to check mergeing
     static func setupAppearance() {
         if #available(iOS 15, *) {
             let appearance = UINavigationBarAppearance()
