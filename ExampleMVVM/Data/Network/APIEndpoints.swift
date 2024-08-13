@@ -2,6 +2,8 @@ import Foundation
 
 struct APIEndpoints {
     
+    //static func getMoviesById(with
+    
     static func getMovies(with moviesRequestDTO: MoviesRequestDTO) -> Endpoint<MoviesResponseDTO> {
 
         return Endpoint(
