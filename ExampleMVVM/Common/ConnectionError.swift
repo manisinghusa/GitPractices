@@ -1,6 +1,7 @@
 import Foundation
 
 protocol ConnectionError: Error {
+    //Test New Feature
     var isInternetConnectionError: Bool { get }
 }
 
