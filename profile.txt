@@ -9,3 +9,4 @@ Git Commit Merge 6
 Git Commit Merge 7
 Git rebase 1
 Git rebase 2
+Git rebase 3
