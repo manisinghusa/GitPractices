@@ -3,3 +3,4 @@ Changing for first commit
 Git commit 1
 Git Commit 2
 Git Commit 3
+Git Commit Merge 4
